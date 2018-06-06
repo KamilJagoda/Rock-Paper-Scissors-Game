@@ -2,8 +2,6 @@
 @include "_header.php";
 ?>
 
-
-
 <div class="game">
     <h1 class="title">Rock Paper Scissors</h1>
     <div class="result">
@@ -22,6 +20,4 @@
     </div>
 </div>
 
-<?php
-@include "_footer.php";
-?>
+<script src="scripts/min/app.min.js"></script>
